@@ -1,5 +1,5 @@
 # Mahdi Hassanzadeh
-from operator import index, indexOf
+from operator import indexOf
 import random
 
 # Making random chromosomes
