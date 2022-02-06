@@ -12,3 +12,7 @@ The 8 queens problem is simple. On an 8x8 chess board, the queen can move any nu
 
 
 The pair of queens on the 4th and 7th columns are attacking each other diagonally.
+
+An example of exacution:
+
+![33](https://user-images.githubusercontent.com/45950266/152678508-a8ecc808-0d65-4e75-a756-7474f7a19da8.png)
